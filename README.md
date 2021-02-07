@@ -1,1 +1,3 @@
-# A Collection of Small Projects for Data Cleanging and Formatting
+# Data Manipulation
+
+A collection of small projects for data cleaning and formatting
